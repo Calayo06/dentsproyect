@@ -588,6 +588,7 @@ ol {
 }
 
 .hero__categories__all {
+	margin-top: 30px;
 	background: #3f87ca;
 	position: relative;
 	padding: 10px 25px 10px 40px;
